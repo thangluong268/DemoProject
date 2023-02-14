@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7144233-9dad-4e74-aaa2-13a190b7662a" name="Changes" comment="commit 1">
+    <list default="true" id="f7144233-9dad-4e74-aaa2-13a190b7662a" name="Changes" comment="commit 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -28,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ChuongTrinhHoc/CongCuVaMoiTruongPTPM/JavaScript/JavaScript/json_server",
+    "last_opened_file_path": "D:/ChuongTrinhHoc/CongCuVaMoiTruongPTPM/React-js-Blogs-and-Projects/Projects/Food Ordering App",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -37,7 +39,10 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/json_server/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="start" />
@@ -45,6 +50,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +67,7 @@
       <workItem from="1676334679286" duration="140000" />
       <workItem from="1676334834618" duration="4390000" />
       <workItem from="1676359477756" duration="25000" />
-      <workItem from="1676359761560" duration="103000" />
+      <workItem from="1676359761560" duration="166000" />
     </task>
     <task id="LOCAL-00001" summary="git config --global user.email &quot;luongthang730@gmail.com&quot;&#10;git config --global user.name &quot;Thang&quot;">
       <created>1676342308297</created>
@@ -87,7 +97,49 @@
       <option name="project" value="LOCAL" />
       <updated>1676359818001</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 1">
+      <created>1676359874778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676359874778</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit 2">
+      <created>1676359893609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676359893609</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit 2">
+      <created>1676360054186</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676360054186</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit 1">
+      <created>1676360193477</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676360193477</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit 2">
+      <created>1676360233184</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676360233184</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 2">
+      <created>1676360268169</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676360268169</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +149,9 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="git config --global user.email &quot;luongthang730@gmail.com&quot;&#10;git config --global user.name &quot;Thang&quot;" />
     <MESSAGE value="commit" />
+    <MESSAGE value="commit 3" />
     <MESSAGE value="commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
 </project>
